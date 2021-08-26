@@ -9,7 +9,7 @@
 
 </p>
 
-My proposal for **Irdest Android Client** was selected as an official project under **Google Summer of Code of 2021**. I worked on [irdest](https://git.irde.st/we/irdest) with the organization [Freifunk](https://freifunk.net), under the mentorship of Katherina Fey([@Spacekookie](https://github.com/spacekookie)).
+My proposal for **Irdest Android Client** was selected as an official project under **Google Summer of Code of 2021**. I worked on [irdest](https://git.irde.st/we/irdest) with the organization [Freifunk](https://freifunk.net), under the mentorship of Katharina Fey([@Spacekookie](https://github.com/spacekookie)).
 
 The project can be found here: https://summerofcode.withgoogle.com/projects/#4792427082153984
 
@@ -161,3 +161,11 @@ to the level we thought at a point of time. But anyways, super happy after worki
 Cheers, until next time we meet! 🥂
 
 ~Ayush Shrivastava /
+
+--------------------
+
+
+If you're interested in the project, you may find following useful, where I discussed about the tech involved, in _detail_ :
+- #1 Overview Blog: [in LaTeX](https://git.irde.st/s-ayush2903/gsoc-resources/-/raw/dev/Blogs/initBlog.pdf) | [@freifunk-blog](https://blog.freifunk.net/2021/08/21/gsoc21-irdest-android-client-work-report/)
+- #2 Phase I Report: [in LaTeX](https://git.irde.st/s-ayush2903/gsoc-resources/-/raw/master/Blogs/irdest-official-blog-ii.pdf) | [@freifunk-blog](https://blog.freifunk.net/2021/07/12/gsoc21-irdest-android-client-coding-phase-i/)
+- #3 Phase II Report: [in LaTeX](https://git.irde.st/s-ayush2903/gsoc-resources/-/raw/dev/Blogs/irdest-official-blog-iii.pdf) | [@freifunk-blog](https://blog.freifunk.net/2021/08/21/gsoc21-irdest-android-client-coding-phase-ii)
